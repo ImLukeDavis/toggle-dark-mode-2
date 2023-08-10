@@ -24,7 +24,7 @@ function showTime() {
   var session = "AM";
 
   if (h == 0) {
-    h = 12;
+    h = 12;    
   }
 
   if (h > 12) {
